@@ -1,0 +1,109 @@
+// ~/.config/zellij/layouts/tmux.kdl
+//
+// This layout provides three swap layouts that equalize panes:
+//   HORIZONTAL  — panes stacked top-to-bottom, equal heights
+//   VERTICAL    — panes side-by-side, equal widths
+//   STACKED     — one expanded pane, rest collapsed to title bars
+//
+// Usage:
+//   Ctrl+a "  → directed horizontal split (splits focused pane in half)
+//   Ctrl+a %  → directed vertical split (splits focused pane in half)
+//   Ctrl+a =  → equalize: snap to next swap layout (cycles H → V → S)
+//   Ctrl+a _  → equalize: snap to previous swap layout
+//   Ctrl+a t  → undirected new pane (auto-placed by swap layout)
+//
+// Each layout defines arrangements for 1–8 panes.
+// Beyond 8, zellij will do its best to distribute evenly.
+
+layout {
+    default_tab_template {
+        children
+        pane size=1 borderless=true {
+            plugin location="zellij:compact-bar"
+        }
+    }
+
+    // ─── HORIZONTAL: equal rows (like tmux even-vertical) ───────────
+    swap_tiled_layout name="HORIZONTAL" {
+        tab max_panes=1 {
+            pane { size "100%"; }
+        }
+        tab max_panes=2 {
+            pane { size "50%"; }
+            pane { size "50%"; }
+        }
+        tab max_panes=3 {
+            pane
+            pane
+            pane
+        }
+        tab max_panes=4 {
+            pane
+            pane
+            pane
+            pane
+        }
+        tab max_panes=5 {
+            pane
+            pane
+            pane
+            pane
+            pane
+        }
+    }
+
+    // ─── VERTICAL: equal columns (like tmux even-horizontal) ────────
+    swap_tiled_layout name="VERTICAL" {
+        tab max_panes=1 {
+            pane
+        }
+        tab max_panes=2 {
+            pane split_direction="vertical" {
+                pane
+                pane
+            }
+        }
+        tab max_panes=3 {
+            pane split_direction="vertical" {
+                pane
+                pane
+                pane
+            }
+        }
+        tab max_panes=4 {
+            pane split_direction="vertical" {
+                pane
+                pane
+                pane
+                pane
+            }
+        }
+        tab max_panes=5 {
+            pane split_direction="vertical" {
+                pane
+                pane
+                pane
+                pane
+                pane
+            }
+        }
+    }
+
+    swap_tiled_layout name="STACKED" {
+        tab max_panes=6 {
+            pane size="33%" split_direction="vertical" {
+                pane
+                pane
+            }
+            pane size="33%" split_direction="vertical" {
+                pane
+                pane
+            }
+            pane size="34%" split_direction="vertical" {
+                pane
+                pane
+            }
+        }
+    }
+}
+
