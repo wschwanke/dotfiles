@@ -50,3 +50,4 @@ x-scheme-handler/postman=Postman.desktop
 inode/directory=org.gnome.Nautilus.desktop
 x-scheme-handler/claude-cli=claude-code-url-handler.desktop
 x-scheme-handler/jetbrains=jetbrainsd.desktop
+x-scheme-handler/slack=slack.desktop
