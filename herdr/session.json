@@ -1,0 +1,212 @@
+{
+  "version": 3,
+  "workspaces": [
+    {
+      "id": "w1D",
+      "custom_name": "[1] api",
+      "identity_cwd": "/home/wschwanke/Personal/towerly/client",
+      "public_pane_numbers": {
+        "2": 56,
+        "3": 57,
+        "1": 49
+      },
+      "next_public_pane_number": 58,
+      "public_tab_numbers": [
+        9,
+        11,
+        12
+      ],
+      "next_public_tab_number": 13,
+      "tabs": [
+        {
+          "custom_name": "[1] zsh",
+          "layout": {
+            "Pane": 1
+          },
+          "panes": {
+            "1": {
+              "cwd": "/home/wschwanke/Personal/towerly/client"
+            }
+          },
+          "zoomed": false,
+          "focused": 1,
+          "root_pane": 1
+        },
+        {
+          "custom_name": "[2] zsh",
+          "layout": {
+            "Pane": 2
+          },
+          "panes": {
+            "2": {
+              "cwd": "/home/wschwanke/Personal/towerly/client"
+            }
+          },
+          "zoomed": false,
+          "focused": 2,
+          "root_pane": 2
+        },
+        {
+          "custom_name": "[3] claude",
+          "layout": {
+            "Pane": 3
+          },
+          "panes": {
+            "3": {
+              "cwd": "/home/wschwanke/Personal/towerly/client",
+              "agent_session": {
+                "source": "herdr:claude",
+                "agent": "claude",
+                "kind": "id",
+                "value": "669a5072-4dd1-429a-8474-7ec5750328f9"
+              }
+            }
+          },
+          "zoomed": false,
+          "focused": 3,
+          "root_pane": 3
+        }
+      ],
+      "active_tab": 0
+    },
+    {
+      "id": "w1Q",
+      "custom_name": "[2] client",
+      "identity_cwd": "/home/wschwanke/Work/werx-app/werx",
+      "public_pane_numbers": {
+        "5": 6,
+        "4": 4,
+        "7": 8
+      },
+      "next_public_pane_number": 9,
+      "public_tab_numbers": [
+        3,
+        5,
+        7
+      ],
+      "next_public_tab_number": 8,
+      "tabs": [
+        {
+          "custom_name": "[1] claude",
+          "layout": {
+            "Pane": 4
+          },
+          "panes": {
+            "4": {
+              "cwd": "/home/wschwanke/Work/werx-app/werx",
+              "agent_session": {
+                "source": "herdr:claude",
+                "agent": "claude",
+                "kind": "id",
+                "value": "f761725a-d8dc-41d1-9221-143ee0acec69"
+              }
+            }
+          },
+          "zoomed": false,
+          "focused": 4,
+          "root_pane": 4
+        },
+        {
+          "custom_name": "[2] zsh",
+          "layout": {
+            "Pane": 5
+          },
+          "panes": {
+            "5": {
+              "cwd": "/home/wschwanke/Work/werx-app/werx/develop"
+            }
+          },
+          "zoomed": false,
+          "focused": 5,
+          "root_pane": 5
+        },
+        {
+          "custom_name": "[3] claude",
+          "layout": {
+            "Pane": 7
+          },
+          "panes": {
+            "7": {
+              "cwd": "/home/wschwanke/Work/werx-app/werx",
+              "agent_session": {
+                "source": "herdr:claude",
+                "agent": "claude",
+                "kind": "id",
+                "value": "c7bdf40b-c835-440f-92ff-a12dbdcff36a"
+              }
+            }
+          },
+          "zoomed": false,
+          "focused": 7,
+          "root_pane": 7
+        }
+      ],
+      "active_tab": 2
+    },
+    {
+      "id": "w1R",
+      "custom_name": "[3] werx",
+      "identity_cwd": "/home/wschwanke/.config/nvim",
+      "public_pane_numbers": {
+        "6": 1
+      },
+      "next_public_pane_number": 2,
+      "public_tab_numbers": [
+        1
+      ],
+      "next_public_tab_number": 2,
+      "tabs": [
+        {
+          "custom_name": "[1] zsh",
+          "layout": {
+            "Pane": 6
+          },
+          "panes": {
+            "6": {
+              "cwd": "/home/wschwanke/.config/nvim"
+            }
+          },
+          "zoomed": false,
+          "focused": 6,
+          "root_pane": 6
+        }
+      ],
+      "active_tab": 0
+    },
+    {
+      "id": "w1S",
+      "custom_name": "[4] nvim",
+      "identity_cwd": "/home/wschwanke/.dotfiles",
+      "public_pane_numbers": {
+        "8": 1
+      },
+      "next_public_pane_number": 2,
+      "public_tab_numbers": [
+        1
+      ],
+      "next_public_tab_number": 2,
+      "tabs": [
+        {
+          "custom_name": "[1] zsh",
+          "layout": {
+            "Pane": 8
+          },
+          "panes": {
+            "8": {
+              "cwd": "/home/wschwanke/.dotfiles"
+            }
+          },
+          "zoomed": false,
+          "focused": 8,
+          "root_pane": 8
+        }
+      ],
+      "active_tab": 0
+    }
+  ],
+  "active": 3,
+  "selected": 3,
+  "sidebar_width": null,
+  "sidebar_section_split": null,
+  "collapsed_space_keys": []
+}

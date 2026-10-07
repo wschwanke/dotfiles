@@ -1,0 +1,298 @@
+2026-07-08T16:10:37.212048Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=175862
+2026-07-08T16:10:37.212080Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-07-08T16:10:37.290965Z  INFO herdr::client: handshake succeeded version=16 encoding=SemanticFrame
+2026-07-09T13:19:14.337153Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=9753
+2026-07-09T13:19:14.337204Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-07-09T13:19:14.557607Z  INFO herdr::client: handshake succeeded version=16 encoding=SemanticFrame
+2026-07-09T13:37:17.350620Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=31449
+2026-07-09T13:37:17.350642Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-07-09T13:37:17.411139Z  INFO herdr::client: handshake succeeded version=16 encoding=SemanticFrame
+2026-07-16T00:48:49.134582Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=363998
+2026-07-16T00:48:49.134609Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-07-16T00:48:49.379182Z  INFO herdr::client: handshake succeeded version=16 encoding=SemanticFrame
+2026-07-17T12:55:06.625925Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=44838
+2026-07-17T12:55:06.625962Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-07-17T12:55:06.830320Z  INFO herdr::client: handshake succeeded version=16 encoding=SemanticFrame
+2026-07-18T13:17:07.472189Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=9632
+2026-07-18T13:17:07.472234Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-07-18T13:17:07.683166Z  INFO herdr::client: handshake succeeded version=16 encoding=SemanticFrame
+2026-07-20T16:12:54.513104Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=106465
+2026-07-20T16:12:54.513143Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-07-20T16:12:54.717808Z  INFO herdr::client: handshake succeeded version=16 encoding=SemanticFrame
+2026-07-20T16:24:35.553272Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=176657
+2026-07-20T16:24:35.553302Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-07-20T16:24:35.728613Z  INFO herdr::client: handshake succeeded version=16 encoding=SemanticFrame
+2026-07-21T04:12:02.623467Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=176657
+2026-07-22T12:36:52.140287Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=9403
+2026-07-22T12:36:52.140327Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-07-22T12:36:52.351620Z  INFO herdr::client: handshake succeeded version=16 encoding=SemanticFrame
+2026-07-23T12:38:17.046088Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=7710
+2026-07-23T12:38:17.046123Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-07-23T12:38:17.255783Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-07-28T22:29:57.840962Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=88260
+2026-07-28T22:29:57.841045Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-07-28T22:29:58.076394Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-07-29T17:15:33.216564Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=24309
+2026-07-29T17:15:33.216630Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-07-29T17:15:33.431325Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-07-29T18:30:55.579605Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=36765
+2026-07-29T18:30:55.579631Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-07-29T18:30:55.627753Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-07-30T13:54:47.313740Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=59078
+2026-07-30T13:54:47.313954Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-07-30T13:54:47.529875Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-07-31T17:49:59.752686Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=51215
+2026-07-31T17:49:59.752921Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-07-31T17:49:59.963543Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-08-01T00:13:26.047340Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=51215
+2026-08-01T00:13:28.279699Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=152934
+2026-08-01T00:13:28.279718Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-08-01T00:13:28.325505Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-08-03T16:48:50.698992Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=24137
+2026-08-03T16:48:50.699225Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-08-03T16:48:50.905748Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-08-04T15:02:51.596981Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=11374
+2026-08-04T15:02:51.597103Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-08-04T15:02:51.804816Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-08-04T19:37:04.160880Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=11374
+2026-08-04T19:37:04.993909Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=142121
+2026-08-04T19:37:04.993926Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-08-04T19:37:05.183179Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-08-04T19:38:48.196680Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=142121
+2026-08-04T19:38:49.153479Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=142895
+2026-08-04T19:38:49.153498Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-08-04T19:38:49.217909Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-08-05T15:49:37.537463Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=16057
+2026-08-05T15:49:37.538587Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-08-05T15:49:37.742278Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-08-06T16:50:13.631654Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=25632
+2026-08-06T16:50:13.631877Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-08-06T16:50:13.841693Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-08-07T14:36:38.450647Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=15719
+2026-08-07T14:36:38.450836Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-08-07T14:36:38.659393Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-08-10T14:40:11.070030Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=32083
+2026-08-10T14:40:11.070236Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-08-10T14:40:11.279683Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-08-11T14:04:17.378062Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=9476
+2026-08-11T14:04:17.378258Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-08-11T14:04:17.584771Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-08-12T13:28:43.924314Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=20547
+2026-08-12T13:28:43.924496Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-08-12T13:28:44.135154Z  INFO herdr::client: handshake succeeded version=17 encoding=SemanticFrame
+2026-08-12T15:10:20.605373Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=23611
+2026-08-12T15:10:20.605541Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-08-12T15:10:20.853226Z  INFO herdr::client: handshake succeeded version=20 encoding=SemanticFrame
+2026-08-13T03:30:04.694454Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=23611
+2026-08-13T16:26:56.663822Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=27138
+2026-08-13T16:26:56.663946Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-08-13T16:26:56.900920Z  INFO herdr::client: handshake succeeded version=20 encoding=SemanticFrame
+2026-08-14T03:59:39.681567Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=27138
+2026-08-14T13:45:46.108659Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=16959
+2026-08-14T13:45:46.108750Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-08-14T13:45:46.338869Z  INFO herdr::client: handshake succeeded version=20 encoding=SemanticFrame
+2026-08-15T03:57:47.457842Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=16959
+2026-08-16T23:13:58.209155Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=63738
+2026-08-16T23:13:58.209311Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-08-16T23:13:58.445968Z  INFO herdr::client: handshake succeeded version=20 encoding=SemanticFrame
+2026-08-17T03:09:11.024350Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=63738
+2026-08-17T13:29:50.992221Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=17366
+2026-08-17T13:29:50.992326Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-08-17T13:29:51.227679Z  INFO herdr::client: handshake succeeded version=20 encoding=SemanticFrame
+2026-08-18T04:03:18.527398Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=17366
+2026-08-18T13:15:31.366785Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=8137
+2026-08-18T13:15:31.366923Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-08-18T13:15:31.601622Z  INFO herdr::client: handshake succeeded version=20 encoding=SemanticFrame
+2026-08-18T22:37:37.180053Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=8137
+2026-08-18T22:37:43.358863Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=442648
+2026-08-18T22:37:43.358878Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-08-18T22:37:43.422750Z  INFO herdr::client: handshake succeeded version=20 encoding=SemanticFrame
+2026-08-19T03:26:27.924936Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=442648
+2026-08-19T13:21:23.534721Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=7037
+2026-08-19T13:21:23.534850Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-08-19T13:21:23.769571Z  INFO herdr::client: handshake succeeded version=20 encoding=SemanticFrame
+2026-08-20T03:58:37.419706Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=7037
+2026-08-20T13:07:21.173436Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=11352
+2026-08-20T13:07:21.173582Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-08-20T13:07:21.407419Z  INFO herdr::client: handshake succeeded version=20 encoding=SemanticFrame
+2026-08-21T03:50:54.391886Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=11352
+2026-08-21T12:56:22.072078Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=4555
+2026-08-21T12:56:22.072208Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-08-21T12:56:22.307123Z  INFO herdr::client: handshake succeeded version=20 encoding=SemanticFrame
+2026-08-22T03:35:51.230863Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=4555
+2026-08-22T13:06:45.535421Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=14773
+2026-08-22T13:06:45.535570Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-08-22T13:06:45.767627Z  INFO herdr::client: handshake succeeded version=20 encoding=SemanticFrame
+2026-08-23T04:17:37.975624Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=14773
+2026-08-24T12:47:05.367593Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=10577
+2026-08-24T12:47:05.367742Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-08-24T12:47:05.600954Z  INFO herdr::client: handshake succeeded version=20 encoding=SemanticFrame
+2026-08-24T18:48:15.407896Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=10577
+2026-08-24T18:49:20.503095Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=4286
+2026-08-24T18:49:20.503179Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-08-24T18:49:20.736857Z  INFO herdr::client: handshake succeeded version=20 encoding=SemanticFrame
+2026-08-25T05:15:39.114534Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=4286
+2026-08-25T14:41:02.608968Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=9335
+2026-08-25T14:41:02.609117Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-08-25T14:41:02.842306Z  INFO herdr::client: handshake succeeded version=20 encoding=SemanticFrame
+2026-08-25T17:42:35.677339Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=4581
+2026-08-25T17:42:35.677448Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-08-25T17:42:35.912009Z  INFO herdr::client: handshake succeeded version=20 encoding=SemanticFrame
+2026-08-26T04:11:33.370208Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=4581
+2026-08-26T13:16:19.149551Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=15046
+2026-08-26T13:16:19.149713Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-08-26T13:16:19.384080Z  INFO herdr::client: handshake succeeded version=20 encoding=SemanticFrame
+2026-08-27T03:45:24.051296Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=15046
+2026-08-27T14:12:13.626492Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=5489
+2026-08-27T14:12:13.626636Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-08-27T14:12:13.864193Z  INFO herdr::client: handshake succeeded version=20 encoding=SemanticFrame
+2026-08-28T02:58:34.927885Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=5489
+2026-08-28T13:27:46.880993Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=12541
+2026-08-28T13:27:46.881143Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-08-28T13:27:47.119506Z  INFO herdr::client: handshake succeeded version=20 encoding=SemanticFrame
+2026-08-29T03:57:35.333987Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=12541
+2026-08-29T13:38:38.390718Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=28255
+2026-08-29T13:38:38.390880Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-08-29T13:38:38.631337Z  INFO herdr::client: handshake succeeded version=20 encoding=SemanticFrame
+2026-08-30T05:07:53.049824Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=28255
+2026-08-31T13:33:52.191380Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=8435
+2026-08-31T13:33:52.191531Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-08-31T13:33:52.429913Z  INFO herdr::client: handshake succeeded version=20 encoding=SemanticFrame
+2026-09-01T03:48:37.728213Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=8435
+2026-09-01T13:29:29.325269Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=5204
+2026-09-01T13:29:29.325393Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-09-01T13:29:29.559260Z  INFO herdr::client: handshake succeeded version=20 encoding=SemanticFrame
+2026-09-02T04:16:22.753737Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=5204
+2026-09-02T13:17:17.090958Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=5267
+2026-09-02T13:17:17.091113Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-09-02T13:17:17.328045Z  INFO herdr::client: handshake succeeded version=20 encoding=SemanticFrame
+2026-09-02T23:36:31.849236Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=5267
+2026-09-02T23:36:37.164969Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=960838
+2026-09-02T23:36:37.164986Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-09-02T23:36:37.412835Z  INFO herdr::client: handshake succeeded version=20 encoding=SemanticFrame
+2026-09-03T03:48:13.443586Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=960838
+2026-09-03T14:04:15.190055Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=9183
+2026-09-03T14:04:15.190151Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-09-03T14:04:15.426795Z  INFO herdr::client: handshake succeeded version=20 encoding=SemanticFrame
+2026-09-05T04:41:35.465201Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=9183
+2026-09-08T17:00:35.636124Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=30559
+2026-09-08T17:00:35.636284Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-09-08T17:00:35.867454Z  INFO herdr::client: handshake succeeded version=20 encoding=SemanticFrame
+2026-09-09T04:12:28.557299Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=30559
+2026-09-09T15:49:00.542419Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=27941
+2026-09-09T15:49:00.542575Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-09-09T15:49:00.773433Z  INFO herdr::client: handshake succeeded version=20 encoding=SemanticFrame
+2026-09-10T04:03:15.504131Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=27941
+2026-09-10T15:12:25.396455Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=27890
+2026-09-10T15:12:25.396591Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-09-10T15:12:25.629094Z  INFO herdr::client: handshake succeeded version=20 encoding=SemanticFrame
+2026-09-11T03:35:08.733332Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=27890
+2026-09-11T14:26:00.270663Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=5126
+2026-09-11T14:26:00.270756Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-09-11T14:26:00.513464Z  INFO herdr::client::handshake: endpoint handshake succeeded generation=1 server_version=0.9.0
+2026-09-12T04:27:25.223342Z  INFO herdr::client: client terminal unavailable; detaching err=Input/output error (os error 5)
+2026-09-12T04:27:25.224258Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=5126
+2026-09-13T01:53:45.363201Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=176547
+2026-09-13T01:53:45.363355Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-09-13T01:53:45.604242Z  INFO herdr::client::handshake: endpoint handshake succeeded generation=1 server_version=0.9.0
+2026-09-13T04:03:27.853078Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=176547
+2026-09-13T04:03:36.055621Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=246926
+2026-09-13T04:03:36.055638Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-09-13T04:03:36.289248Z  INFO herdr::client::handshake: endpoint handshake succeeded generation=1 server_version=0.9.0
+2026-09-13T04:31:52.238505Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=246926
+2026-09-13T15:26:39.964000Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=5197
+2026-09-13T15:26:39.964146Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-09-13T15:26:40.204735Z  INFO herdr::client::handshake: endpoint handshake succeeded generation=1 server_version=0.9.0
+2026-09-14T03:14:55.557723Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=5197
+2026-09-14T15:17:18.363677Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=6224
+2026-09-14T15:17:18.363824Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-09-14T15:17:18.604539Z  INFO herdr::client::handshake: endpoint handshake succeeded generation=1 server_version=0.9.0
+2026-09-15T03:52:23.181693Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=6224
+2026-09-15T15:49:48.899186Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=7856
+2026-09-15T15:49:48.899367Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-09-15T15:49:49.135867Z  INFO herdr::client::handshake: endpoint handshake succeeded generation=1 server_version=0.9.0
+2026-09-16T03:12:51.210749Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=7856
+2026-09-16T15:22:22.276542Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=8472
+2026-09-16T15:22:22.276665Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-09-16T15:22:22.512795Z  INFO herdr::client::handshake: endpoint handshake succeeded generation=1 server_version=0.9.0
+2026-09-17T03:13:21.837080Z  INFO herdr::client: client terminal unavailable; detaching err=Input/output error (os error 5)
+2026-09-17T03:13:21.839329Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=8472
+2026-09-17T15:38:40.963003Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=10530
+2026-09-17T15:38:40.963123Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-09-17T15:38:41.196907Z  INFO herdr::client::handshake: endpoint handshake succeeded generation=1 server_version=0.9.0
+2026-09-18T03:32:55.695714Z  INFO herdr::client: client terminal unavailable; detaching err=Input/output error (os error 5)
+2026-09-18T03:32:55.696778Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=10530
+2026-09-18T13:01:48.685123Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=5064
+2026-09-18T13:01:48.685197Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-09-18T13:01:48.926542Z  INFO herdr::client::handshake: endpoint handshake succeeded generation=1 server_version=0.9.0
+2026-09-19T04:38:14.511359Z  INFO herdr::client: client terminal unavailable; detaching err=Input/output error (os error 5)
+2026-09-19T04:38:14.512083Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=5064
+2026-09-20T02:24:38.017120Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=122069
+2026-09-20T02:24:38.017252Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-09-20T02:24:38.256994Z  INFO herdr::client::handshake: endpoint handshake succeeded generation=1 server_version=0.9.1
+2026-09-20T05:30:01.047081Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=122069
+2026-09-21T14:51:35.428613Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=5274
+2026-09-21T14:51:35.428701Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-09-21T14:51:35.668711Z  INFO herdr::client::handshake: endpoint handshake succeeded generation=1 server_version=0.9.1
+2026-09-22T04:30:47.760666Z  INFO herdr::client: client terminal unavailable; detaching err=Input/output error (os error 5)
+2026-09-22T04:30:47.761779Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=5274
+2026-09-22T13:49:32.218462Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=5705
+2026-09-22T13:49:32.218579Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-09-22T13:49:32.459909Z  INFO herdr::client::handshake: endpoint handshake succeeded generation=1 server_version=0.9.1
+2026-09-23T03:08:25.807601Z  INFO herdr::client: client terminal unavailable; detaching err=Input/output error (os error 5)
+2026-09-23T03:08:25.809945Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=5705
+2026-09-23T14:18:32.301600Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=5125
+2026-09-23T14:18:32.301746Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-09-23T14:18:32.544198Z  INFO herdr::client::handshake: endpoint handshake succeeded generation=1 server_version=0.9.1
+2026-09-24T04:13:44.738351Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=5125
+2026-09-24T11:43:27.520153Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=4795
+2026-09-24T11:43:27.520250Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-09-24T11:43:27.760839Z  INFO herdr::client::handshake: endpoint handshake succeeded generation=1 server_version=0.9.1
+2026-09-25T04:58:18.068734Z  INFO herdr::client: client terminal unavailable; detaching err=Input/output error (os error 5)
+2026-09-25T04:58:18.070362Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=4795
+2026-09-25T04:58:20.976164Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=555064
+2026-09-25T04:58:20.976178Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-09-25T04:58:21.081752Z  INFO herdr::client::handshake: endpoint handshake succeeded generation=1 server_version=0.9.1
+2026-09-25T05:14:42.711419Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=555064
+2026-09-25T14:51:50.078837Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=8567
+2026-09-25T14:51:50.078934Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-09-25T14:51:50.316181Z  INFO herdr::client::handshake: endpoint handshake succeeded generation=1 server_version=0.9.1
+2026-09-26T01:00:04.406819Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=8567
+2026-09-28T22:14:36.204323Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=51777
+2026-09-28T22:14:36.204451Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-09-28T22:14:36.442143Z  INFO herdr::client::handshake: endpoint handshake succeeded generation=1 server_version=0.9.1
+2026-09-29T00:21:46.170069Z  INFO herdr::client: client terminal unavailable; detaching err=Input/output error (os error 5)
+2026-09-29T00:21:46.171581Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=51777
+2026-09-29T16:00:57.662000Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=14405
+2026-09-29T16:00:57.662109Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-09-29T16:00:57.900964Z  INFO herdr::client::handshake: endpoint handshake succeeded generation=1 server_version=0.9.1
+2026-09-30T04:54:53.092963Z  INFO herdr::client: client terminal unavailable; detaching err=Input/output error (os error 5)
+2026-09-30T04:54:53.093601Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=14405
+2026-09-30T16:18:09.972666Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=11067
+2026-09-30T16:18:09.972769Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-09-30T16:18:10.216036Z  INFO herdr::client::handshake: endpoint handshake succeeded generation=1 server_version=0.9.1
+2026-10-01T04:28:14.571754Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=11067
+2026-10-01T16:06:03.158879Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=4949
+2026-10-01T16:06:03.159020Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-10-01T16:06:03.405627Z  INFO herdr::client::handshake: endpoint handshake succeeded generation=1 server_version=0.9.1
+2026-10-01T23:44:14.074981Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=4949
+2026-10-02T16:29:04.885024Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=9847
+2026-10-02T16:29:04.885127Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-10-02T16:29:05.130302Z  INFO herdr::client::handshake: endpoint handshake succeeded generation=1 server_version=0.9.1
+2026-10-02T23:14:11.409409Z  WARN herdr::sound: sound playback failed sound=Done err=Disk quota exceeded (os error 122)
+2026-10-03T04:48:51.301593Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=9847
+2026-10-05T16:05:17.236514Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=18192
+2026-10-05T16:05:17.236665Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-10-05T16:05:17.478032Z  INFO herdr::client::handshake: endpoint handshake succeeded generation=1 server_version=0.9.1
+2026-10-05T16:11:01.587323Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=18192
+2026-10-05T16:15:12.070237Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=8031
+2026-10-05T16:15:12.070398Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-10-05T16:15:12.311244Z  INFO herdr::client::handshake: endpoint handshake succeeded generation=1 server_version=0.9.1
+2026-10-06T03:11:47.395971Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=8031
+2026-10-06T13:51:34.813938Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=5257
+2026-10-06T13:51:34.814142Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-10-06T13:51:35.054413Z  INFO herdr::client::handshake: endpoint handshake succeeded generation=1 server_version=0.9.1
+2026-10-06T13:53:34.894693Z  INFO herdr::logging: herdr exiting event="app.shutdown" subsystem="client" outcome="completed" pid=5257
+2026-10-06T13:58:26.173126Z  INFO herdr::logging: herdr starting event="app.startup" subsystem="client" outcome="started" pid=7500
+2026-10-06T13:58:26.173259Z  INFO herdr::client: connecting to server path=/home/wschwanke/.config/herdr/herdr-client.sock
+2026-10-06T13:58:26.413531Z  INFO herdr::client::handshake: endpoint handshake succeeded generation=1 server_version=0.9.1

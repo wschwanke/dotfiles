@@ -1,0 +1,1019 @@
+2026-10-06T13:59:47.980549Z  INFO herdr::logging: tab renamed event="tab.rename" subsystem="tab" outcome="ok" workspace_id="w1R" tab_id="w1R:t1"
+2026-10-06T13:59:47.982089Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="ok" request_id="cli:tab:rename" method="tab.rename"
+2026-10-06T13:59:47.995904Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T13:59:47.995995Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T13:59:47.997357Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T13:59:47.997394Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T13:59:47.998709Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T13:59:47.998741Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T13:59:48.000273Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T13:59:48.002769Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T13:59:48.156746Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T13:59:48.156817Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T13:59:48.158255Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T13:59:48.160528Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T13:59:48.161976Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T13:59:48.162021Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T13:59:48.163331Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T13:59:48.163376Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T13:59:51.400486Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:tab:rename" method="tab.rename" changes_ui=true
+2026-10-06T13:59:51.400537Z  INFO herdr::logging: tab renamed event="tab.rename" subsystem="tab" outcome="ok" workspace_id="w1R" tab_id="w1R:t1"
+2026-10-06T13:59:51.400863Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="ok" request_id="cli:tab:rename" method="tab.rename"
+2026-10-06T13:59:51.549950Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:tab:rename" method="tab.rename" changes_ui=true
+2026-10-06T13:59:51.550000Z  INFO herdr::logging: tab renamed event="tab.rename" subsystem="tab" outcome="ok" workspace_id="w1R" tab_id="w1R:t1"
+2026-10-06T13:59:51.550248Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="ok" request_id="cli:tab:rename" method="tab.rename"
+2026-10-06T13:59:51.564678Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T13:59:51.564767Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T13:59:51.566288Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T13:59:51.566324Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T13:59:51.567859Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T13:59:51.570174Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T13:59:51.571730Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T13:59:51.571778Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T13:59:51.729222Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T13:59:51.729287Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T13:59:51.730753Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T13:59:51.733846Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T13:59:51.735420Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T13:59:51.735464Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T13:59:51.736808Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T13:59:51.736843Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T13:59:52.457153Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:tab:rename" method="tab.rename" changes_ui=true
+2026-10-06T13:59:52.457215Z  INFO herdr::logging: tab renamed event="tab.rename" subsystem="tab" outcome="ok" workspace_id="w1R" tab_id="w1R:t1"
+2026-10-06T13:59:52.457530Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="ok" request_id="cli:tab:rename" method="tab.rename"
+2026-10-06T13:59:52.608384Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:tab:rename" method="tab.rename" changes_ui=true
+2026-10-06T13:59:52.608447Z  INFO herdr::logging: tab renamed event="tab.rename" subsystem="tab" outcome="ok" workspace_id="w1R" tab_id="w1R:t1"
+2026-10-06T13:59:52.608739Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="ok" request_id="cli:tab:rename" method="tab.rename"
+2026-10-06T13:59:52.624323Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T13:59:52.624410Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T13:59:52.625925Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T13:59:52.629487Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T13:59:52.630986Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T13:59:52.631024Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T13:59:52.632385Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T13:59:52.632428Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T13:59:52.789412Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T13:59:52.789485Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T13:59:52.791025Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T13:59:52.793378Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T13:59:52.794948Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T13:59:52.794997Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T13:59:52.796488Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T13:59:52.796591Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T13:59:57.610604Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/home/wschwanke/.config/herdr/session.json workspaces=3
+2026-10-06T14:00:14.401954Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:tab:rename" method="tab.rename" changes_ui=true
+2026-10-06T14:00:14.401997Z  INFO herdr::logging: tab renamed event="tab.rename" subsystem="tab" outcome="ok" workspace_id="w1R" tab_id="w1R:t1"
+2026-10-06T14:00:14.402244Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="ok" request_id="cli:tab:rename" method="tab.rename"
+2026-10-06T14:00:14.557489Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:tab:rename" method="tab.rename" changes_ui=true
+2026-10-06T14:00:14.557544Z  INFO herdr::logging: tab renamed event="tab.rename" subsystem="tab" outcome="ok" workspace_id="w1R" tab_id="w1R:t1"
+2026-10-06T14:00:14.557780Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="ok" request_id="cli:tab:rename" method="tab.rename"
+2026-10-06T14:00:14.572241Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:00:14.572337Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:00:14.573911Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:00:14.573973Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:00:14.575368Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:00:14.575411Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:00:14.577041Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:00:14.580339Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:00:14.740002Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:00:14.740066Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:00:14.741579Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:00:14.743225Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:00:14.744790Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:00:14.744827Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:00:14.746170Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:00:14.746199Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:00:15.163720Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:tab:rename" method="tab.rename" changes_ui=true
+2026-10-06T14:00:15.163762Z  INFO herdr::logging: tab renamed event="tab.rename" subsystem="tab" outcome="ok" workspace_id="w1R" tab_id="w1R:t1"
+2026-10-06T14:00:15.164002Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="ok" request_id="cli:tab:rename" method="tab.rename"
+2026-10-06T14:00:15.331565Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:00:15.331639Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:00:15.332942Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:00:15.335709Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:00:15.337090Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:00:15.337126Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:00:15.338339Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:00:15.338372Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:00:17.292475Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:tab:rename" method="tab.rename" changes_ui=true
+2026-10-06T14:00:17.292525Z  INFO herdr::logging: tab renamed event="tab.rename" subsystem="tab" outcome="ok" workspace_id="w1R" tab_id="w1R:t1"
+2026-10-06T14:00:17.292766Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="ok" request_id="cli:tab:rename" method="tab.rename"
+2026-10-06T14:00:17.460802Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:00:17.460867Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:00:17.462327Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:00:17.464872Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:00:17.466302Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:00:17.466342Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:00:17.467669Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:00:17.467708Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:00:22.294497Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/home/wschwanke/.config/herdr/session.json workspaces=3
+2026-10-06T14:15:47.137920Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="w1Q"
+2026-10-06T14:15:47.137942Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="w1Q" tab_id="w1Q:t3"
+2026-10-06T14:15:47.137968Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="w1Q"
+2026-10-06T14:15:47.137984Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="w1Q" tab_id="w1Q:t3"
+2026-10-06T14:15:47.303342Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:15:47.303401Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:15:47.305017Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:15:47.306916Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:15:47.308448Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:15:47.308496Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:15:47.309931Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:15:47.309968Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:15:47.466165Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:15:47.466222Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:15:47.467878Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:15:47.470083Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:15:47.471720Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:15:47.471760Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:15:47.473257Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:15:47.473296Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:15:49.736747Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=7 rows=93 cols=272 scrollback_limit_bytes=10000000
+2026-10-06T14:15:49.738976Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=7 pid=30881
+2026-10-06T14:15:49.739126Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="w1Q" tab_id="w1Q:t7"
+2026-10-06T14:15:49.882425Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:tab:rename" method="tab.rename" changes_ui=true
+2026-10-06T14:15:49.882474Z  INFO herdr::logging: tab renamed event="tab.rename" subsystem="tab" outcome="ok" workspace_id="w1Q" tab_id="w1Q:t7"
+2026-10-06T14:15:49.882766Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="ok" request_id="cli:tab:rename" method="tab.rename"
+2026-10-06T14:15:49.918640Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:15:49.918732Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:15:49.920072Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:15:49.921487Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:15:49.922833Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:15:49.922877Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:15:49.924228Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:15:49.924266Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:15:50.098263Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:15:50.098344Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:15:50.099868Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:15:50.101316Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:15:50.102821Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:15:50.102862Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:15:50.104294Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:15:50.104334Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:15:52.299267Z  INFO herdr::pane: agent changed pane=7 previous_agent=None agent=Some(Claude) process=claude pgid=Some(32202)
+2026-10-06T14:15:52.444468Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:tab:rename" method="tab.rename" changes_ui=true
+2026-10-06T14:15:52.444511Z  INFO herdr::logging: tab renamed event="tab.rename" subsystem="tab" outcome="ok" workspace_id="w1Q" tab_id="w1Q:t7"
+2026-10-06T14:15:52.444771Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="ok" request_id="cli:tab:rename" method="tab.rename"
+2026-10-06T14:15:52.482275Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:15:52.482389Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:15:52.483733Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:15:52.486014Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:15:52.487648Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:15:52.487743Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:15:52.489350Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:15:52.489402Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:15:52.490934Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:15:52.490989Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:15:52.492556Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:15:52.492614Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:15:52.672258Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:15:52.672377Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:15:52.673857Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:15:52.676055Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:15:52.677656Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:15:52.677705Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:15:52.679130Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:15:52.679167Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:15:52.680682Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:15:52.680720Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:15:52.682338Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:15:52.682380Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:15:55.799759Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:15:55.799835Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:15:55.801325Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:15:55.803942Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:15:55.805500Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:15:55.805543Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:15:55.807041Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:15:55.807079Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:15:55.808389Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:15:55.808430Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:15:55.809909Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:15:55.809956Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:15:57.855387Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/home/wschwanke/.config/herdr/session.json workspaces=3
+2026-10-06T14:16:46.771874Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:16:46.771940Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:16:46.773289Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:16:46.775472Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:16:46.777001Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:16:46.777047Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:16:46.778519Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:16:46.778561Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:16:46.780032Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:16:46.780070Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:16:46.781515Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:16:46.781554Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:21:00.484468Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:21:00.484537Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:21:00.485923Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:21:00.488276Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:21:00.489804Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:21:00.489856Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:21:00.491244Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:21:00.491275Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:21:00.492670Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:21:00.492708Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:21:00.494022Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:21:00.494064Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:23:35.628482Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:23:35.628550Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:23:35.629918Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:23:35.632169Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:23:35.633615Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:23:35.633656Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:23:35.634988Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:23:35.635022Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:23:35.636354Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:23:35.636388Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:23:35.637697Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:23:35.637735Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:24:02.254985Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:24:02.255105Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:24:02.256645Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:24:02.258729Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:24:02.260219Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:24:02.260269Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:24:02.261709Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:24:02.261747Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:24:02.263069Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:24:02.263104Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:24:02.264683Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:24:02.264733Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:39:26.809077Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:39:26.809139Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:39:26.810647Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:39:26.813376Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:39:26.814892Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:39:26.814930Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:39:26.816293Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:39:26.816344Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:39:26.817669Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:39:26.817709Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:39:26.818997Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:39:26.819026Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:57:51.473079Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:57:51.473137Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:57:51.474555Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:57:51.476705Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:57:51.478236Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:57:51.478294Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:57:51.479757Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:57:51.479797Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:57:51.481079Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:57:51.481110Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T14:57:51.482625Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T14:57:51.482675Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T19:58:44.808911Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="w1R"
+2026-10-06T19:58:44.808927Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="w1R" tab_id="w1R:t1"
+2026-10-06T19:58:44.808949Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="w1R"
+2026-10-06T19:58:44.808951Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="w1R" tab_id="w1R:t1"
+2026-10-06T19:58:44.996250Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T19:58:44.996313Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T19:58:44.997715Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T19:58:45.000345Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T19:58:45.001854Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T19:58:45.001894Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T19:58:45.003250Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T19:58:45.003286Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T19:58:45.004601Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T19:58:45.004632Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T19:58:45.005969Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T19:58:45.006000Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T19:58:45.188797Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T19:58:45.188851Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T19:58:45.190390Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T19:58:45.192568Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T19:58:45.194367Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T19:58:45.194420Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T19:58:45.195811Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T19:58:45.195844Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T19:58:45.197172Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T19:58:45.197203Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T19:58:45.198540Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T19:58:45.198571Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T19:58:45.760765Z  INFO herdr::logging: spawning pane terminal event="pane.spawn.start" subsystem="pane" outcome="started" pane_id=8 rows=93 cols=272 scrollback_limit_bytes=10000000
+2026-10-06T19:58:45.762734Z  INFO herdr::logging: pane child spawned event="pane.spawned" subsystem="pane" outcome="ok" pane_id=8 pid=120155
+2026-10-06T19:58:45.762906Z  INFO herdr::logging: workspace created event="workspace.create" subsystem="workspace" outcome="ok" workspace_id="w1S" pane_id=8
+2026-10-06T19:58:45.762911Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="w1S"
+2026-10-06T19:58:45.762915Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="w1S" tab_id="w1S:t1"
+2026-10-06T19:58:45.793646Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:workspace:rename" method="workspace.rename" changes_ui=true
+2026-10-06T19:58:45.793705Z  INFO herdr::logging: workspace renamed event="workspace.rename" subsystem="workspace" outcome="ok" workspace_id="w1S"
+2026-10-06T19:58:45.793975Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="ok" request_id="cli:workspace:rename" method="workspace.rename"
+2026-10-06T19:58:45.953938Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:tab:rename" method="tab.rename" changes_ui=true
+2026-10-06T19:58:45.954008Z  INFO herdr::logging: tab renamed event="tab.rename" subsystem="tab" outcome="ok" workspace_id="w1S" tab_id="w1S:t1"
+2026-10-06T19:58:45.954329Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="ok" request_id="cli:tab:rename" method="tab.rename"
+2026-10-06T19:58:45.968942Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T19:58:45.969034Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T19:58:45.970589Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T19:58:45.970638Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T19:58:45.972096Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T19:58:45.974347Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T19:58:45.975763Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T19:58:45.975804Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T19:58:45.977046Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T19:58:45.977082Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T19:58:45.978341Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T19:58:45.978383Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T19:58:46.183037Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T19:58:46.183124Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T19:58:46.184538Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T19:58:46.184585Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T19:58:46.186416Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T19:58:46.188778Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T19:58:46.190491Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T19:58:46.190531Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T19:58:46.192040Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T19:58:46.192086Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T19:58:46.193475Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T19:58:46.193511Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T19:58:46.397437Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T19:58:46.397548Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T19:58:46.399001Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T19:58:46.400894Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T19:58:46.402426Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T19:58:46.402476Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T19:58:46.403858Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T19:58:46.403901Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T19:58:46.405410Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T19:58:46.405451Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T19:58:46.406847Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T19:58:46.406884Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T19:58:48.700287Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:tab:rename" method="tab.rename" changes_ui=true
+2026-10-06T19:58:48.700362Z  INFO herdr::logging: tab renamed event="tab.rename" subsystem="tab" outcome="ok" workspace_id="w1S" tab_id="w1S:t1"
+2026-10-06T19:58:48.700612Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="ok" request_id="cli:tab:rename" method="tab.rename"
+2026-10-06T19:58:48.943860Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T19:58:48.944004Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T19:58:48.945716Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T19:58:48.949193Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T19:58:48.950892Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T19:58:48.950947Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T19:58:48.954420Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T19:58:48.954560Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T19:58:48.956483Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T19:58:48.956534Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T19:58:48.958316Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T19:58:48.958366Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T19:58:53.701457Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/home/wschwanke/.config/herdr/session.json workspaces=4
+2026-10-06T20:11:13.716107Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="w1R"
+2026-10-06T20:11:13.716155Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="w1R" tab_id="w1R:t1"
+2026-10-06T20:11:13.716200Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="w1R"
+2026-10-06T20:11:13.716204Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="w1R" tab_id="w1R:t1"
+2026-10-06T20:11:13.939314Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:11:13.939441Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:11:13.940925Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:11:13.942504Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:11:13.944149Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:11:13.944226Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:11:13.945961Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:11:13.946006Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:11:13.947518Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:11:13.947556Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:11:13.948905Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:11:13.948940Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:11:14.158939Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:11:14.159062Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:11:14.160416Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:11:14.162949Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:11:14.164863Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:11:14.164919Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:11:14.166444Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:11:14.166483Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:11:14.167851Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:11:14.167897Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:11:14.169243Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:11:14.169281Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:11:15.856039Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="w1Q"
+2026-10-06T20:11:15.856061Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="w1Q" tab_id="w1Q:t7"
+2026-10-06T20:11:15.856085Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="w1Q"
+2026-10-06T20:11:15.856088Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="w1Q" tab_id="w1Q:t7"
+2026-10-06T20:11:16.074344Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:11:16.074469Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:11:16.076043Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:11:16.079512Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:11:16.080846Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:11:16.080883Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:11:16.082159Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:11:16.082192Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:11:16.083576Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:11:16.083615Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:11:16.084992Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:11:16.085029Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:11:16.294678Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:11:16.294749Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:11:16.296435Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:11:16.298833Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:11:16.300357Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:11:16.300396Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:11:16.301941Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:11:16.301976Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:11:16.303583Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:11:16.303623Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:11:16.305082Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:11:16.305121Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:11:20.858599Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/home/wschwanke/.config/herdr/session.json workspaces=4
+2026-10-06T20:12:13.843498Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="w1D"
+2026-10-06T20:12:13.843527Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="w1D" tab_id="w1D:t9"
+2026-10-06T20:12:13.843557Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="w1D"
+2026-10-06T20:12:13.843561Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="w1D" tab_id="w1D:t9"
+2026-10-06T20:12:14.064447Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:12:14.064524Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:12:14.066043Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:12:14.067583Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:12:14.069322Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:12:14.069370Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:12:14.070972Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:12:14.071007Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:12:14.072400Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:12:14.072452Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:12:14.074056Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:12:14.074101Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:12:14.255359Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="w1S"
+2026-10-06T20:12:14.255374Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="w1S" tab_id="w1S:t1"
+2026-10-06T20:12:14.255392Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="w1S"
+2026-10-06T20:12:14.255395Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="w1S" tab_id="w1S:t1"
+2026-10-06T20:12:14.293328Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:12:14.293430Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:12:14.295433Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:12:14.298180Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:12:14.299799Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:12:14.299842Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:12:14.301701Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:12:14.301734Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:12:14.303431Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:12:14.303473Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:12:14.305125Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:12:14.305170Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:12:14.517076Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:12:14.517184Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:12:14.518441Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:12:14.520956Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:12:14.522206Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:12:14.522245Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:12:14.523674Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:12:14.523715Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:12:14.524999Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:12:14.525034Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:12:14.526421Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:12:14.526518Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:12:16.417715Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="w1R"
+2026-10-06T20:12:16.417734Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="w1R" tab_id="w1R:t1"
+2026-10-06T20:12:16.417763Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="w1R"
+2026-10-06T20:12:16.417767Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="w1R" tab_id="w1R:t1"
+2026-10-06T20:12:16.638423Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:12:16.638533Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:12:16.640154Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:12:16.642023Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:12:16.643737Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:12:16.643782Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:12:16.645256Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:12:16.645293Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:12:16.646848Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:12:16.646895Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:12:16.648468Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:12:16.648511Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:12:16.863384Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:12:16.863507Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:12:16.864986Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:12:16.866438Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:12:16.868045Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:12:16.868100Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:12:16.869543Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:12:16.869587Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:12:16.870919Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:12:16.870956Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:12:16.872380Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:12:16.872421Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:12:21.419414Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/home/wschwanke/.config/herdr/session.json workspaces=4
+2026-10-06T20:17:57.774115Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="w1Q"
+2026-10-06T20:17:57.774135Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="w1Q" tab_id="w1Q:t7"
+2026-10-06T20:17:57.774156Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="w1Q"
+2026-10-06T20:17:57.774159Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="w1Q" tab_id="w1Q:t7"
+2026-10-06T20:17:57.991519Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:17:57.991636Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:17:57.993223Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:17:57.994956Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:17:57.996699Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:17:57.996747Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:17:57.998265Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:17:57.998301Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:17:57.999663Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:17:57.999701Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:17:58.001033Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:17:58.001074Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:17:58.211424Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:17:58.211534Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:17:58.212812Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:17:58.214672Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:17:58.216180Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:17:58.216234Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:17:58.217813Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:17:58.217878Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:17:58.219353Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:17:58.219398Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:17:58.220768Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:17:58.220810Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:18:02.776564Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/home/wschwanke/.config/herdr/session.json workspaces=4
+2026-10-06T20:20:12.397884Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:20:12.397992Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:20:12.399489Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:20:12.401894Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:20:12.403410Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:20:12.403451Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:20:12.404866Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:20:12.404905Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:20:12.406270Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:20:12.406308Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:20:12.407699Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:20:12.407733Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:20:16.632270Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:20:16.632420Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:20:16.633957Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:20:16.636161Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:20:16.637615Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:20:16.637665Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:20:16.639105Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:20:16.639149Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:20:16.640519Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:20:16.640563Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:20:16.641940Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:20:16.641984Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:30:11.007483Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:30:11.007554Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:30:11.009093Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:30:11.011154Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:30:11.012770Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:30:11.012823Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:30:11.014239Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:30:11.014283Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:30:11.015615Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:30:11.015649Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:30:11.017116Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:30:11.017158Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:30:32.811862Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:30:32.811948Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:30:32.813543Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:30:32.816253Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:30:32.817790Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:30:32.817826Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:30:32.819155Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:30:32.819186Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:30:32.820676Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:30:32.820713Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:30:32.822110Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:30:32.822154Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:31:18.091725Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:31:18.091784Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:31:18.093210Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:31:18.095225Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:31:18.096687Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:31:18.096733Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:31:18.098098Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:31:18.098133Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:31:18.099447Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:31:18.099481Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:31:18.100805Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:31:18.100832Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:44:52.292820Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:44:52.292882Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:44:52.294420Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:44:52.297230Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:44:52.298825Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:44:52.298881Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:44:52.300342Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:44:52.300393Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:44:52.301761Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:44:52.301807Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:44:52.303120Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:44:52.303159Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:44:52.594812Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:44:52.594885Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:44:52.596182Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:44:52.598538Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:44:52.600067Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:44:52.600118Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:44:52.601566Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:44:52.601611Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:44:52.602927Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:44:52.602966Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:44:52.604260Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:44:52.604306Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:50:15.306039Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:50:15.306116Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:50:15.307561Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:50:15.307601Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:50:15.308903Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:50:15.308940Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:50:15.310544Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:50:15.310588Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:50:15.311950Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:50:15.311983Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:50:15.313366Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:50:15.313399Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:50:26.810744Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:50:26.810805Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:50:26.812221Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:50:26.814929Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:50:26.816432Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:50:26.816477Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:50:26.817928Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:50:26.817964Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:50:26.819306Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:50:26.819342Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:50:26.820763Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:50:26.820793Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:50:33.162299Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:50:33.162361Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:50:33.163823Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:50:33.166012Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:50:33.167456Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:50:33.167497Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:50:33.168842Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:50:33.168882Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:50:33.170212Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:50:33.170243Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T20:50:33.171623Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T20:50:33.171658Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T21:33:41.145444Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T21:33:41.145504Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T21:33:41.146856Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T21:33:41.149527Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T21:33:41.151089Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T21:33:41.151139Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T21:33:41.152746Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T21:33:41.152918Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T21:33:41.154276Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T21:33:41.154312Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-06T21:33:41.155612Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-06T21:33:41.155642Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:18:12.602760Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:18:12.602850Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:18:12.604851Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:18:12.607305Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:18:12.608841Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:18:12.608877Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:18:12.610270Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:18:12.610306Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:18:12.611626Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:18:12.611656Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:18:12.612971Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:18:12.613005Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:19:53.791900Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:19:53.791965Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:19:53.793433Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:19:53.796397Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:19:53.797898Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:19:53.797939Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:19:53.799323Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:19:53.799362Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:19:53.800819Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:19:53.800861Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:19:53.802394Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:19:53.802433Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:23:32.061952Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:23:32.062018Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:23:32.063354Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:23:32.066497Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:23:32.067961Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:23:32.067998Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:23:32.069321Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:23:32.069364Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:23:32.070663Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:23:32.070702Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:23:32.071982Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:23:32.072020Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:23:42.101212Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="w1R"
+2026-10-07T00:23:42.101234Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="w1R" tab_id="w1R:t1"
+2026-10-07T00:23:42.101260Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="w1R"
+2026-10-07T00:23:42.101263Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="w1R" tab_id="w1R:t1"
+2026-10-07T00:23:42.315117Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:23:42.315203Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:23:42.316711Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:23:42.319006Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:23:42.320503Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:23:42.320545Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:23:42.321925Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:23:42.321961Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:23:42.323349Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:23:42.323399Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:23:42.324952Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:23:42.324986Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:23:42.453085Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="w1S"
+2026-10-07T00:23:42.453100Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="w1S" tab_id="w1S:t1"
+2026-10-07T00:23:42.453125Z  INFO herdr::logging: workspace focused event="workspace.focus" subsystem="workspace" outcome="ok" workspace_id="w1S"
+2026-10-07T00:23:42.453134Z  INFO herdr::logging: tab focused event="tab.focus" subsystem="tab" outcome="ok" workspace_id="w1S" tab_id="w1S:t1"
+2026-10-07T00:23:42.536179Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:23:42.536304Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:23:42.537801Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:23:42.541082Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:23:42.542664Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:23:42.542704Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:23:42.544113Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:23:42.544142Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:23:42.545537Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:23:42.545576Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:23:42.546820Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:23:42.546856Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:23:42.756723Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:23:42.756805Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:23:42.758393Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:23:42.761405Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:23:42.762972Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:23:42.763020Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:23:42.764562Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:23:42.764605Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:23:42.765929Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:23:42.765969Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:23:42.767281Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:23:42.767311Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:23:44.315847Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:tab:rename" method="tab.rename" changes_ui=true
+2026-10-07T00:23:44.315912Z  INFO herdr::logging: tab renamed event="tab.rename" subsystem="tab" outcome="ok" workspace_id="w1S" tab_id="w1S:t1"
+2026-10-07T00:23:44.316164Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="ok" request_id="cli:tab:rename" method="tab.rename"
+2026-10-07T00:23:44.529557Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:23:44.529638Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:23:44.531171Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:23:44.533365Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:23:44.534800Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:23:44.534847Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:23:44.536225Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:23:44.536271Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:23:44.537629Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:23:44.537672Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:23:44.539224Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:23:44.539263Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:23:46.588946Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:23:46.589018Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:23:46.590352Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:23:46.592498Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:23:46.594139Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:23:46.594186Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:23:46.595633Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:23:46.595675Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:23:46.596980Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:23:46.597016Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:23:46.598295Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:23:46.598336Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:23:49.317453Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/home/wschwanke/.config/herdr/session.json workspaces=4
+2026-10-07T00:25:08.179126Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:25:08.179239Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:25:08.180832Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:25:08.183428Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:25:08.184976Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:25:08.185021Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:25:08.186508Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:25:08.186620Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:25:08.188087Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:25:08.188140Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:25:08.189642Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:25:08.189682Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:25:15.743189Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:25:15.743252Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:25:15.744716Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:25:15.746606Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:25:15.748141Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:25:15.748190Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:25:15.749745Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:25:15.749782Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:25:15.751216Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:25:15.751268Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T00:25:15.752619Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T00:25:15.752654Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:03.730531Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:tab:rename" method="tab.rename" changes_ui=true
+2026-10-07T02:42:03.730593Z  INFO herdr::logging: tab renamed event="tab.rename" subsystem="tab" outcome="ok" workspace_id="w1S" tab_id="w1S:t1"
+2026-10-07T02:42:03.730979Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="ok" request_id="cli:tab:rename" method="tab.rename"
+2026-10-07T02:42:03.927809Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:tab:rename" method="tab.rename" changes_ui=true
+2026-10-07T02:42:03.927864Z  INFO herdr::logging: tab renamed event="tab.rename" subsystem="tab" outcome="ok" workspace_id="w1S" tab_id="w1S:t1"
+2026-10-07T02:42:03.928137Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="ok" request_id="cli:tab:rename" method="tab.rename"
+2026-10-07T02:42:03.944667Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:03.944780Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:03.946151Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:03.948176Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:03.949759Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:03.949814Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:03.951239Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:03.951273Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:03.952669Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:03.952704Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:03.954160Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:03.954187Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:04.156215Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:04.156323Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:04.157684Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:04.159186Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:04.160856Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:04.160915Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:04.162812Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:04.162850Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:04.164363Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:04.164399Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:04.165909Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:04.165952Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:05.584815Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:tab:rename" method="tab.rename" changes_ui=true
+2026-10-07T02:42:05.584895Z  INFO herdr::logging: tab renamed event="tab.rename" subsystem="tab" outcome="ok" workspace_id="w1S" tab_id="w1S:t1"
+2026-10-07T02:42:05.585133Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="ok" request_id="cli:tab:rename" method="tab.rename"
+2026-10-07T02:42:05.783292Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:tab:rename" method="tab.rename" changes_ui=true
+2026-10-07T02:42:05.783346Z  INFO herdr::logging: tab renamed event="tab.rename" subsystem="tab" outcome="ok" workspace_id="w1S" tab_id="w1S:t1"
+2026-10-07T02:42:05.783595Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="ok" request_id="cli:tab:rename" method="tab.rename"
+2026-10-07T02:42:05.799831Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:05.799932Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:05.801579Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:05.803516Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:05.805051Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:05.805091Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:05.806386Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:05.806423Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:05.807890Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:05.807933Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:05.809526Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:05.809577Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:06.014420Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:06.014485Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:06.016264Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:06.017487Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:06.019078Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:06.019129Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:06.020619Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:06.020662Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:06.022057Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:06.022095Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:06.023490Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:06.023536Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:09.748926Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:tab:rename" method="tab.rename" changes_ui=true
+2026-10-07T02:42:09.749000Z  INFO herdr::logging: tab renamed event="tab.rename" subsystem="tab" outcome="ok" workspace_id="w1S" tab_id="w1S:t1"
+2026-10-07T02:42:09.749253Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="ok" request_id="cli:tab:rename" method="tab.rename"
+2026-10-07T02:42:09.943920Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:tab:rename" method="tab.rename" changes_ui=true
+2026-10-07T02:42:09.943966Z  INFO herdr::logging: tab renamed event="tab.rename" subsystem="tab" outcome="ok" workspace_id="w1S" tab_id="w1S:t1"
+2026-10-07T02:42:09.944211Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="ok" request_id="cli:tab:rename" method="tab.rename"
+2026-10-07T02:42:09.960162Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:09.960257Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:09.961621Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:09.963769Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:09.965473Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:09.965525Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:09.967098Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:09.967142Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:09.968525Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:09.968577Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:09.970001Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:09.970053Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:10.172760Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:10.172845Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:10.174367Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:10.175878Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:10.177442Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:10.177480Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:10.178777Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:10.178815Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:10.180122Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:10.180177Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:10.181804Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:10.181844Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:13.662700Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:tab:rename" method="tab.rename" changes_ui=true
+2026-10-07T02:42:13.662766Z  INFO herdr::logging: tab renamed event="tab.rename" subsystem="tab" outcome="ok" workspace_id="w1S" tab_id="w1S:t1"
+2026-10-07T02:42:13.663032Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="ok" request_id="cli:tab:rename" method="tab.rename"
+2026-10-07T02:42:13.855593Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:tab:rename" method="tab.rename" changes_ui=true
+2026-10-07T02:42:13.855639Z  INFO herdr::logging: tab renamed event="tab.rename" subsystem="tab" outcome="ok" workspace_id="w1S" tab_id="w1S:t1"
+2026-10-07T02:42:13.855877Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="ok" request_id="cli:tab:rename" method="tab.rename"
+2026-10-07T02:42:13.873421Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:13.875973Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:13.878464Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:13.878513Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:13.880064Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:13.880101Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:13.881695Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:13.881726Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:13.883197Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:13.883230Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:13.884587Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:13.884632Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:14.086410Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:14.086477Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:14.087919Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:14.089465Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:14.090905Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:14.090947Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:14.092326Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:14.092366Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:14.093695Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:14.093734Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:14.095313Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:14.095353Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:17.842726Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:tab:rename" method="tab.rename" changes_ui=true
+2026-10-07T02:42:17.842804Z  INFO herdr::logging: tab renamed event="tab.rename" subsystem="tab" outcome="ok" workspace_id="w1S" tab_id="w1S:t1"
+2026-10-07T02:42:17.843195Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="ok" request_id="cli:tab:rename" method="tab.rename"
+2026-10-07T02:42:18.043359Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:tab:rename" method="tab.rename" changes_ui=true
+2026-10-07T02:42:18.043410Z  INFO herdr::logging: tab renamed event="tab.rename" subsystem="tab" outcome="ok" workspace_id="w1S" tab_id="w1S:t1"
+2026-10-07T02:42:18.043660Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="ok" request_id="cli:tab:rename" method="tab.rename"
+2026-10-07T02:42:18.059471Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:18.059575Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:18.061115Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:18.061161Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:18.062745Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:18.065424Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:18.067034Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:18.067081Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:18.068616Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:18.068659Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:18.070268Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:18.070318Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:18.275125Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:18.275213Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:18.276508Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:18.281576Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:18.283146Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:18.283203Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:18.284641Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:18.284682Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:18.286074Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:18.286117Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:18.287642Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:18.287670Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:18.688359Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:tab:rename" method="tab.rename" changes_ui=true
+2026-10-07T02:42:18.688434Z  INFO herdr::logging: tab renamed event="tab.rename" subsystem="tab" outcome="ok" workspace_id="w1S" tab_id="w1S:t1"
+2026-10-07T02:42:18.688896Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="ok" request_id="cli:tab:rename" method="tab.rename"
+2026-10-07T02:42:18.881000Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:tab:rename" method="tab.rename" changes_ui=true
+2026-10-07T02:42:18.881051Z  INFO herdr::logging: tab renamed event="tab.rename" subsystem="tab" outcome="ok" workspace_id="w1S" tab_id="w1S:t1"
+2026-10-07T02:42:18.881323Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="ok" request_id="cli:tab:rename" method="tab.rename"
+2026-10-07T02:42:18.896598Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:18.896706Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:18.898160Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:18.902160Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:18.903889Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:18.903937Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:18.905434Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:18.905472Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:18.907034Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:18.907078Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:18.908437Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:18.908477Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:19.110724Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:19.110799Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:19.112411Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:19.114777Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:19.116272Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:19.116325Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:19.118274Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:19.118323Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:19.119966Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:19.120005Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:19.121498Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:19.121534Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:23.882303Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/home/wschwanke/.config/herdr/session.json workspaces=4
+2026-10-07T02:42:32.095655Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:tab:rename" method="tab.rename" changes_ui=true
+2026-10-07T02:42:32.095716Z  INFO herdr::logging: tab renamed event="tab.rename" subsystem="tab" outcome="ok" workspace_id="w1S" tab_id="w1S:t1"
+2026-10-07T02:42:32.096112Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="ok" request_id="cli:tab:rename" method="tab.rename"
+2026-10-07T02:42:32.292501Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:tab:rename" method="tab.rename" changes_ui=true
+2026-10-07T02:42:32.292558Z  INFO herdr::logging: tab renamed event="tab.rename" subsystem="tab" outcome="ok" workspace_id="w1S" tab_id="w1S:t1"
+2026-10-07T02:42:32.292853Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="ok" request_id="cli:tab:rename" method="tab.rename"
+2026-10-07T02:42:32.308386Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:32.308477Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:32.309929Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:32.313706Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:32.315300Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:32.315354Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:32.316756Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:32.316795Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:32.318091Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:32.318127Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:32.319468Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:32.319500Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:32.525857Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:32.525930Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:32.527448Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:32.529673Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:32.531254Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:32.531311Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:32.532778Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:32.532813Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:32.534205Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:32.534233Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:32.535765Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:32.535817Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:37.294466Z  INFO herdr::logging: session saved event="persist.save" subsystem="persist" outcome="ok" path=/home/wschwanke/.config/herdr/session.json workspaces=4
+2026-10-07T02:42:44.783229Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:tab:rename" method="tab.rename" changes_ui=true
+2026-10-07T02:42:44.783296Z  INFO herdr::logging: tab renamed event="tab.rename" subsystem="tab" outcome="ok" workspace_id="w1S" tab_id="w1S:t1"
+2026-10-07T02:42:44.783670Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="ok" request_id="cli:tab:rename" method="tab.rename"
+2026-10-07T02:42:44.978378Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:tab:rename" method="tab.rename" changes_ui=true
+2026-10-07T02:42:44.978431Z  INFO herdr::logging: tab renamed event="tab.rename" subsystem="tab" outcome="ok" workspace_id="w1S" tab_id="w1S:t1"
+2026-10-07T02:42:44.978726Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="ok" request_id="cli:tab:rename" method="tab.rename"
+2026-10-07T02:42:44.994798Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:44.994879Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:44.996427Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:44.998942Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:45.000462Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:45.000516Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:45.001991Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:45.002030Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:45.003387Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:45.003436Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:45.004846Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:45.004886Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:45.209592Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:45.209674Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:45.211139Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:45.213463Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:45.214946Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:45.214991Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:45.216666Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:45.216709Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:45.218354Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:45.218389Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
+2026-10-07T02:42:45.219792Z  INFO herdr::logging: api request received event="api.request.start" subsystem="api" outcome="started" request_id="cli:agent:rename" method="agent.rename" changes_ui=true
+2026-10-07T02:42:45.219821Z  INFO herdr::logging: api request completed event="api.request.complete" subsystem="api" outcome="error" request_id="cli:agent:rename" method="agent.rename"
